@@ -1,0 +1,27 @@
+{
+    "allowed_domains": [], 
+    "exclude_patterns": [], 
+    "follow_patterns": [
+        "IndependentlyCuratedSpotifyPlaylistsqbdsl"
+    ], 
+    "id": "www.themicco.com", 
+    "init_requests": [
+        {
+            "type": "login", 
+            "loginurl": "https://www.themicco.com/Sys/Login?ReturnUrl=%2FSpotifyplaylists", 
+            "username": "mike@tauntdigital.co.uk", 
+            "password": "FQRAPYy7"
+        }
+    ], 
+    "js_disable_patterns": [], 
+    "js_enable_patterns": [], 
+    "js_enabled": false, 
+    "links_to_follow": "patterns", 
+    "respect_nofollow": false, 
+    "start_urls": [
+        {
+            "type": "url", 
+            "url": "https://www.themicco.com/Spotifyplaylists"
+        }
+    ]
+}
