@@ -1,0 +1,42 @@
+{
+    "9441-4d96-8ca2": {
+        "fields": {
+            "0277-4523-8a63": {
+                "id": "0277-4523-8a63", 
+                "name": "Playlist Name", 
+                "required": true, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "0498-4597-874f": {
+                "id": "0498-4597-874f", 
+                "name": "Curator", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "d8e5-4eee-94e9": {
+                "id": "d8e5-4eee-94e9", 
+                "name": "Description", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "e0af-495b-adf0": {
+                "id": "e0af-495b-adf0", 
+                "name": "Followers", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "5f2f-4093-83aa": {
+                "id": "5f2f-4093-83aa", 
+                "name": "Genre", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "The Music Industry Connection - Spotify Playlist"
+    }
+}
